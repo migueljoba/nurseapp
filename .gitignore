@@ -1,2 +1,10 @@
 
 nurseapp/.idea/
+
+nurseapp/admin/__pycache__/
+
+nurseapp/db.sqlite3
+
+*.pyc
+
+nurseapp/userapp/migrations/
