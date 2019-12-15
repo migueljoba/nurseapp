@@ -1,0 +1,4 @@
+Django
+django-widget-tweaks
+django-crispy-forms
+django-bootstrap4
